@@ -2,7 +2,7 @@
 # 📊 Customer Performance Report & Sales Analytics  
 
 **Objective:**  
-1. Generate an insightful [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).  
+1. Generate an insightful [Customer Performance Report](https://github.com/Hemachand29/Excel-Sales-Analytics/blob/main/Sales_Report.pdf).  
 2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).  
 
 ---
