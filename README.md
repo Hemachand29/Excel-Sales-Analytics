@@ -3,7 +3,7 @@
 
 **Objective:**  
 1. Generate an insightful [Customer Performance Report](https://github.com/Hemachand29/Excel-Sales-Analytics/blob/main/Sales_Report.pdf).  
-2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).  
+2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/Hemachand29/Excel-Sales-Analytics/blob/main/Market_Performance.pdf).  
 
 ---
 
@@ -43,10 +43,10 @@ Sales analytics empowers businesses to:
 - Strategic guidance for **sales negotiations**.  
 - Clear identification of opportunities in **new markets**.  
 
-Feel free to explore the [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) for a detailed analysis!  
+Feel free to explore the [Sales Analytics](https://github.com/Hemachand29/Excel-Sales-Analytics/tree/main) for a detailed analysis!  
 
 ---
 
 ## 🔗 Repository Overview  
-This repository provides an overview of sales data analysis using Excel and Power BI, featuring advanced techniques in ETL, DAX, and report fine-tuning. Stay tuned for future updates and enhancements!
+This repository provides an overview of sales data analysis using Excel, featuring advanced techniques in ETL, DAX, and report fine-tuning. Stay tuned for future updates and enhancements!
 
